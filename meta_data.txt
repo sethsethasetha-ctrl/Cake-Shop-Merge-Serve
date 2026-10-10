@@ -1,0 +1,35 @@
+App Name
+Cake Shop: Merge & Serve
+
+Subtitle
+Keep your bakery alive
+
+Keywords
+2048,bakery,puzzle,casual,restaurant,orders,cooking,dessert,offline,endless,cozy,shop
+
+Description
+Swipe, merge, and keep the bakery running in Cake Shop, a cozy puzzle game that blends classic 2048 play with real-time customer orders.
+
+Combine matching cakes to create tempting new desserts, then serve the right cake before each customer runs out of patience. Every successful move costs cash, every completed order earns it back, and every decision affects your restaurant rating.
+
+Keep your bakery alive by balancing the board, customer timers, cash, and rating. Serve customers quickly to build a Green Streak and recover rating, or reject an order when the board cannot deliver—but repeated rejections bring tougher penalties.
+
+Features:
+• Familiar 4 × 4 merge-puzzle controls
+• Eleven cake levels to discover
+• Live customer orders and waiting timers
+• Quick serving with simple tap controls
+• Cash, revenue, and restaurant-rating strategy
+• Green Streak rewards and rejection penalties
+• Endless play with increasing difficulty
+• A local leaderboard stored on your device
+• Warm, cozy bakery visuals
+• No account required
+
+Merge, serve, earn, and survive. How long can your cake shop stay open?
+
+Promotional Text
+Build a bakery one swipe at a time. Merge cakes, match live customer orders, protect your rating, and chase a new high revenue score in a cozy endless challenge.
+
+Copyright
+Copyright © 2026 Jinxin Wu. All rights reserved.
